@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "H:\\AndroidStudioProjects\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_openmap_mark.png",
+        "source": "H:\\AndroidStudioProjects\\BaiduLocDemo\\app\\src\\main\\res\\drawable-hdpi\\icon_openmap_mark.png"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\huaji.png",
+        "source": "H:\\AndroidStudioProjects\\BaiduLocDemo\\app\\src\\main\\res\\drawable-hdpi\\huaji.png"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\icon_openmap_focuse_mark.png",
+        "source": "H:\\AndroidStudioProjects\\BaiduLocDemo\\app\\src\\main\\res\\drawable-hdpi\\icon_openmap_focuse_mark.png"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\bus_icon.png",
+        "source": "H:\\AndroidStudioProjects\\BaiduLocDemo\\app\\src\\main\\res\\drawable-hdpi\\bus_icon.png"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_launcher.png",
+        "source": "H:\\AndroidStudioProjects\\BaiduLocDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

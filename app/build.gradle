@@ -1,0 +1,90 @@
+apply plugin: 'com.android.application'
+apply plugin: 'me.tatarka.retrolambda'
+apply plugin: 'android-apt'
+
+android {
+
+    compileSdkVersion 25
+    buildToolsVersion "25.0.2"
+    defaultConfig {
+        applicationId "com.nanjing.bus.shuttle"
+        minSdkVersion 15
+        targetSdkVersion 25
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        vectorDrawables.useSupportLibrary = true
+
+        multiDexEnabled true
+    }
+
+    signingConfigs {
+        config {
+            keyAlias 'fylder'
+            keyPassword '123456'
+            storeFile file('H:/AndroidStudioProjects/BaiduLocDemo/android.jks')
+            storePassword '123456'
+        }
+    }
+
+    packagingOptions {
+        exclude 'META-INF/LICENSE'
+    }
+    lintOptions {
+        abortOnError false
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+            signingConfig signingConfigs.config
+        }
+
+        debug {
+            signingConfig signingConfigs.config
+        }
+    }
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+ext {
+    supportVersion = '25.3.1'
+    retrofitVersion = '2.0.2'
+    frescoVersion = '1.0.0'
+    butterknifeVersion = '8.4.0'
+    daggerVersion = '2.7'
+    rxjavaVersion = '1.2.7'
+    rxandroidVersion = '1.2.1'
+    ucropVersion = '2.2.0'
+    buglyVersion = '2.2.2'
+    leakcanaryVersion = '1.5'
+}
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile "com.android.support:appcompat-v7:${supportVersion}"
+    compile "com.android.support:support-vector-drawable:${supportVersion}"
+    compile "com.jakewharton:butterknife:${butterknifeVersion}"
+    apt "com.jakewharton:butterknife-compiler:${butterknifeVersion}"
+    //  http
+    compile "com.squareup.retrofit2:retrofit:${retrofitVersion}"
+    compile "com.squareup.retrofit2:adapter-rxjava:${retrofitVersion}"
+    compile "com.squareup.retrofit2:converter-jackson:${retrofitVersion}"
+    // compile "com.squareup.retrofit2:converter-gson:${retrofitVersion}"
+    compile "io.reactivex:rxjava:${rxjavaVersion}"
+    compile "io.reactivex:rxandroid:${rxandroidVersion}"
+
+    compile 'org.greenrobot:eventbus:3.0.0'
+
+    compile 'com.google.code.gson:gson:2.8.0'
+    compile 'com.orhanobut:logger:1.15'
+    compile 'com.android.support.constraint:constraint-layout:1.0.2'
+}

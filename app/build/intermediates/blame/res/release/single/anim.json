@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "H:\\AndroidStudioProjects\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\fylder\\.android\\build-cache\\cd402317105f3f09b1c7f2ddeb31f430e010db3f\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\fylder\\.android\\build-cache\\cd402317105f3f09b1c7f2ddeb31f430e010db3f\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\fylder\\.android\\build-cache\\cd402317105f3f09b1c7f2ddeb31f430e010db3f\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\fylder\\.android\\build-cache\\cd402317105f3f09b1c7f2ddeb31f430e010db3f\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\fylder\\.android\\build-cache\\cd402317105f3f09b1c7f2ddeb31f430e010db3f\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\fylder\\.android\\build-cache\\cd402317105f3f09b1c7f2ddeb31f430e010db3f\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\fylder\\.android\\build-cache\\cd402317105f3f09b1c7f2ddeb31f430e010db3f\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\fylder\\.android\\build-cache\\cd402317105f3f09b1c7f2ddeb31f430e010db3f\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\fylder\\.android\\build-cache\\cd402317105f3f09b1c7f2ddeb31f430e010db3f\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\fylder\\.android\\build-cache\\cd402317105f3f09b1c7f2ddeb31f430e010db3f\\output\\res\\anim\\abc_slide_in_top.xml"
+    }
+]

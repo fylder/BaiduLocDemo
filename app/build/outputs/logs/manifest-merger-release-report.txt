@@ -1,0 +1,187 @@
+-- Merging decision tree log ---
+manifest
+ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:2:1-71:12
+	package
+		ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml
+		INJECTED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml
+		INJECTED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml
+		INJECTED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:7:5-76
+	android:name
+		ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:7:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:9:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:10:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.INTERNET
+ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:13:5-84
+	android:name
+		ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:13:22-81
+uses-permission#android.permission.READ_LOGS
+ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:14:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:15:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:16:5-68
+	android:name
+		ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:16:22-65
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:17:5-73
+	android:name
+		ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:17:22-70
+application
+ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:19:5-69:19
+MERGED from [com.android.support:appcompat-v7:23.2.0] C:\Users\fylder\.android\build-cache\cd402317105f3f09b1c7f2ddeb31f430e010db3f\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.0] C:\Users\fylder\.android\build-cache\548ca58fc240c04bc817d167e550aee9c0c6adfd\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.0] C:\Users\fylder\.android\build-cache\62ba1d58f3ba6cfd17775496a6ff2db0cb9321a4\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.2.0] C:\Users\fylder\.android\build-cache\a54e86906bfee89cd3fc6cc48a3965bce2150c62\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\fylder\.android\build-cache\408a945645d4c90d642d3f611ee8aeda00ced240\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:23:9-41
+	android:allowBackup
+		ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:21:9-35
+	android:icon
+		ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:22:9-42
+	android:theme
+		ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:24:9-40
+	android:name
+		ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:20:9-48
+activity#com.nanjing.bus.shuttle.DemoActivity
+ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:26:9-34:20
+	android:launchMode
+		ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:28:13-44
+	android:name
+		ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:27:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:32:27-74
+activity#com.nanjing.bus.shuttle.SettingActivity
+ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:35:9-53
+	android:name
+		ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:35:19-50
+service#com.nanjing.bus.shuttle.service.MyLocationService
+ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:37:9-39:41
+	android:permission
+		ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:39:13-38
+	android:name
+		ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:38:13-54
+service#com.baidu.location.f
+ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:42:9-49:19
+	android:enabled
+		ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:44:13-35
+	android:process
+		ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:45:13-38
+	android:name
+		ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:43:13-48
+intent-filter#com.baidu.location.service_v2.2
+ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:46:13-48:29
+action#com.baidu.location.service_v2.2
+ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:47:17-74
+	android:name
+		ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:47:25-71
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:51:9-53:64
+	android:value
+		ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:53:13-61
+	android:name
+		ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:52:13-52
+activity#com.nanjing.bus.shuttle.demo.MainActivity
+ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:57:9-59:48
+	android:label
+		ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:59:13-45
+	android:name
+		ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:58:13-46
+activity#com.nanjing.bus.shuttle.demo.LocationActivity
+ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:60:9-59
+	android:name
+		ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:60:19-56
+activity#com.nanjing.bus.shuttle.demo.LocationOption
+ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:61:9-57
+	android:name
+		ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:61:19-54
+activity#com.nanjing.bus.shuttle.demo.LocationFilter
+ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:62:9-57
+	android:name
+		ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:62:19-54
+activity#com.nanjing.bus.shuttle.demo.NotifyActivity
+ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:63:9-57
+	android:name
+		ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:63:19-54
+activity#com.nanjing.bus.shuttle.demo.QuestActivity
+ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:64:9-56
+	android:name
+		ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:64:19-53
+activity#com.nanjing.bus.shuttle.demo.LocationAutoNotify
+ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:65:9-61
+	android:name
+		ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:65:19-58
+activity#com.nanjing.bus.shuttle.demo.IndoorLocationActivity
+ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:66:9-65
+	android:name
+		ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:66:19-62
+activity#com.nanjing.bus.shuttle.demo.IsHotWifiActivity
+ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:67:9-60
+	android:name
+		ADDED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml:67:19-57
+uses-sdk
+INJECTED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\fylder\.android\build-cache\e67c4ea00147af2b0bbea4e7dc7ceb31d3a1908a\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:appcompat-v7:23.2.0] C:\Users\fylder\.android\build-cache\cd402317105f3f09b1c7f2ddeb31f430e010db3f\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.2.0] C:\Users\fylder\.android\build-cache\548ca58fc240c04bc817d167e550aee9c0c6adfd\output\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.2.0] C:\Users\fylder\.android\build-cache\62ba1d58f3ba6cfd17775496a6ff2db0cb9321a4\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.2.0] C:\Users\fylder\.android\build-cache\a54e86906bfee89cd3fc6cc48a3965bce2150c62\output\AndroidManifest.xml:20:5-43
+MERGED from [com.jakewharton:butterknife:8.4.0] C:\Users\fylder\.android\build-cache\a26bbb88a4df299213550d2eb4fa38d1c024f499\output\AndroidManifest.xml:5:5-43
+MERGED from [io.reactivex:rxandroid:1.2.1] C:\Users\fylder\.android\build-cache\d6ede2121e40a428986e2168f3399c0bd590c045\output\AndroidManifest.xml:19:5-43
+MERGED from [com.orhanobut:logger:1.15] C:\Users\fylder\.android\build-cache\d3523385778a10ce1853619bb415f4d1a427951c\output\AndroidManifest.xml:6:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\fylder\.android\build-cache\408a945645d4c90d642d3f611ee8aeda00ced240\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.2.0] C:\Users\fylder\.android\build-cache\cd402317105f3f09b1c7f2ddeb31f430e010db3f\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml
+		INJECTED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml
+		INJECTED from H:\AndroidStudioProjects\BaiduLocDemo\app\src\main\AndroidManifest.xml

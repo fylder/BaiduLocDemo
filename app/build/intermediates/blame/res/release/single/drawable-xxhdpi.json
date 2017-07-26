@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "H:\\AndroidStudioProjects\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\bus_icon.png",
+        "source": "H:\\AndroidStudioProjects\\BaiduLocDemo\\app\\src\\main\\res\\drawable-xxhdpi\\bus_icon.png"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "H:\\AndroidStudioProjects\\BaiduLocDemo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]
